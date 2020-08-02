@@ -1,0 +1,7 @@
+.bsp
+.history
+.metals
+target/*
+!target/.gitkeep
+project/*
+!project/.gitkeep
